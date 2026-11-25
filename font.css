@@ -1,0 +1,8 @@
+@font-face {
+  font-family: '픽셀꽉찬체13';
+  src: url('./PixelKkwakchan13.woff2') format('woff2'),
+       url('./PixelKkwakchan13.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
