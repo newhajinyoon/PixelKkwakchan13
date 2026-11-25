@@ -1,7 +1,7 @@
-
 # 픽셀꽉찬체13 (PixelKkwakchan13)
 
 ![License](https://img.shields.io/badge/License-OFL--1.1-blue) [![Release](https://img.shields.io/github/v/release/newhajinyoon/PixelKkwakchan13)](https://github.com/newhajinyoon/PixelKkwakchan13/releases) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/gh/newhajinyoon/PixelKkwakchan13/badge)](https://www.jsdelivr.com/package/gh/newhajinyoon/PixelKkwakchan13) [![GitHub Downloads](https://img.shields.io/github/downloads/newhajinyoon/PixelKkwakchan13/total)](https://github.com/newhajinyoon/PixelKkwakchan13/releases)
+<br>
 13×13 픽셀 그리드 안에 자모를 빈틈없이 꽉 채워 넣은 고정폭/반전각 픽셀 한글 폰트입니다.
 
 <img width="1459" height="969" alt="image" src="https://github.com/user-attachments/assets/2bc7030b-820a-4377-b898-92aa23725dd4" />
@@ -15,14 +15,14 @@
 
 ## 지원 문자
 
-| 범위                  | 비고                                            |
-| --------------------- | ----------------------------------------------- |
-| 한글 완성형           | 11,172자 전체 (`U+AC00`–`U+D7A3`)          |
-| 호환용 자모           | ㄱ–ㅣ 현대 자모 51자 (`U+3131`–`U+3163`)  |
-| 첫가끝 자모           | 초/중/종성 및 채움자 (`U+1100`–`U+11C2`) |
-| 영문/숫자/기본 기호 | 반각 `7×13px` (ASCII 전체)                   |
-| 전각 영문/숫자/기호 | `13×13px` (`U+FF01`–`U+FF5E`, `￦`)   |
-| 특수기호              | 화살표, 도형, 연산기호, 세로쓰기용 부호 등      |
+| 범위                | 비고                                           |
+| ------------------- | ---------------------------------------------- |
+| 한글 완성형         | 11,172자 전체 (`U+AC00`–`U+D7A3`)         |
+| 호환용 자모         | ㄱ–ㅣ 현대 자모 51자 (`U+3131`–`U+3163`) |
+| 첫가끝 자모         | 초/중/종성 및 채움자 (`U+1100`–`U+11C2`)  |
+| 영문/숫자/기본 기호 | 반각 `7×13px` (ASCII 전체)                  |
+| 전각 영문/숫자/기호 | `13×13px` (`U+FF01`–`U+FF5E`, `￦`)  |
+| 특수기호            | 화살표, 도형, 연산기호, 세로쓰기용 부호 등     |
 
 ## 크기 안내
 
