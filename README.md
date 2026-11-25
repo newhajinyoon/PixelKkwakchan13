@@ -34,13 +34,13 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newhajinyoon/PixelKkwakchan13@v1.0.0/dist/font.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newhajinyoon/PixelKkwakchan13@v1.0.0/font.css">
 ```
 
 #### CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/newhajinyoon/PixelKkwakchan13@v1.0.0/dist/font.css');
+@import url('https://cdn.jsdelivr.net/gh/newhajinyoon/PixelKkwakchan13@v1.0.0/font.css');
 
 body {
   font-family: '픽셀꽉찬체13', monospace;
